@@ -1,5 +1,5 @@
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="18919093" data-share-method="host" data-aspect-ratio="1.93939" data-width="100%"><a href="https://tenor.com/view/gon-and-killua-hxh-hunter-x-hunter-gif-18919093">Gon And Killua Hxh GIF</a>
+  <img src="https://tenor.com/view/gon-and-killua-hxh-hunter-x-hunter-gif-18919093" alt="qqkillua">
 </p>
 
 <h1 align="center">hi, i'm qqkillua</a>!</h1>

@@ -13,4 +13,5 @@
 
 <p align="center">
   <img src="assets/badge-88x31.svg" alt="qqkillua" width="100">
+  <img src="assets/Vector.svg" alt="qqkillua" width="100">
 </p>

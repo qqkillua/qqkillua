@@ -11,7 +11,9 @@
 
 <p align="center">i'm a student～☆</p>
 
-<p align="center"></p>
+<p align="center">
+  Имя: Никита Байнов
+</p>
 
 
 <p align="center">

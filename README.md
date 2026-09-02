@@ -17,6 +17,6 @@
 
 
 <p align="center">
-  <img src="assets/badge-88x31.svg" alt="qqkillua" width="100">
+  <img src="assets/badge-88x31 1.svg" alt="qqkillua" width="100">
   <img src="assets/Icon.svg" alt="qqkillua" width="100">
 </p>

@@ -10,4 +10,4 @@
 <h3 align="center">welcome to my profile :3</h3>
 
 <p align="center">i'm student and I learn java～☆</p>
-<img src="assets/badge-88x31.svg" alt="qqkillua">
+<img src="assets/badge-88x31.svg" alt="qqkillua" align="center">

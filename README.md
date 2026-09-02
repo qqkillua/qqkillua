@@ -12,7 +12,7 @@
 <p align="center">i'm a student～☆</p>
 
 <p align="center">
-  Имя: Никита Байнов
+  Name: Никита Байнов
 </p>
 
 

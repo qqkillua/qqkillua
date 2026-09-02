@@ -12,5 +12,5 @@
 <p align="center">i'm student and I learn java～☆</p>
 
 <p align="center">
-  <img src="assets/badge-88x31.svg" alt="qqkillua">
+  <img src="assets/badge-88x31.svg" alt="qqkillua" width="100">
 </p>

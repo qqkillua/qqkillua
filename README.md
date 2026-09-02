@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/gon-and-killua-hxh-hunter-x-hunter-gif-18919093" alt="qqkillua">
+  <img src="https://media1.tenor.com/m/DZXmDpRJyqoAAAAd/gon-and-killua-hxh.gif" alt="qqkillua">
 </p>
 
 <h1 align="center">hi, i'm qqkillua</a>!</h1>
